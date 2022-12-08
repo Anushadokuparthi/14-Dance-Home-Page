@@ -7,9 +7,7 @@
 ### Time Taken
 - 6 hours
 
-## [Deployment Link](https://anusha-interior-design.netlify.app/)
-
+## [Deployment Link](https://anusha-dancing-home.netlify.app/)
 
 ### Output
-
-![1](https://user-images.githubusercontent.com/43666166/205443932-4a09639f-f12a-47f8-8a25-310e5090b99a.PNG)
+![14](https://user-images.githubusercontent.com/43666166/206512291-100bc334-22fd-476c-be09-14ea72df4d40.PNG)
