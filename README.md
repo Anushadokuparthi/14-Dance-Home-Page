@@ -1,5 +1,5 @@
-# 14-Dance-Home-Page
-14-Dance Home Page
+# 14. Dance Home Page
+Dance Home Page
 
 - HTML5
 - Css3
